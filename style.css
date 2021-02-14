@@ -1,0 +1,28 @@
+h1 {
+    color: orchid;
+}
+*{
+    border: solid;
+}
+
+.header{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: rgb(235, 29, 132);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color: rgb(57, 170, 12);
+    display: flex;
+    
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
